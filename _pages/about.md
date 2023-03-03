@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a fourth year Ph.D. student in the medical physics graduate program at Duke University, advised by [Prof. Bastiaan Driehuys](https://sites.duke.edu/driehuyslab/). Here, I develop imaging processing methods for hyperpolarized Xenon MRI. My research interests are broadly in medical image processing, reconstruction, and analysis. I am also interested in applying deep learning to computer vision, and have experience with image generation, segmentation, and super-resolution.
+I am a fourth year Ph.D. student in the medical physics graduate program at Duke University, advised by [Prof. Bastiaan Driehuys](https://sites.duke.edu/driehuyslab/). Here, I develop imaging processing methods for hyperpolarized Xenon MRI. My research interests are broadly in medical image processing, reconstruction, and analysis. I am also interested in deep learning and computer vision, and have experience with image generation, segmentation, and super-resolution.
 
 Previously, I earned my B.S. in engineering physics at Cornell University, advised by [Prof. Gennady Shvets](https://shvets.aep.cornell.edu/). My thesis topic was on metasurfaced-enhanced FTIR for tissue characterization.
 

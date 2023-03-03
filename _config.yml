@@ -254,10 +254,10 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: Lu
+  first_name: [Junlan, J.]
 
-  style: apa
+  style: ieee
   locale: en
 
   source: /_bibliography/
@@ -276,7 +276,10 @@ scholar:
   details_link: Details
 
   query: "@*"
-
+  sort_by: date
+  order: descending
+  type_order: [article, conference, inproceedings, proceedings, unpublished]
+  type_names: {unpublished: preprints/abstracts, article: journal, inproceedings: conference}
 badges: # Display different badges for your pulications
   altmetric_badge: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
   dimensions_badge: true # Dimensions badge (https://badge.dimensions.ai/)
