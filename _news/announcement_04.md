@@ -1,0 +1,6 @@
+---
+layout: post
+date: 2023-04-11 16:11:00-0400
+inline: true
+---
+Launched a weekend project [collegeshunt](https://collegeshunt.com) as a fun webapp to rank colleges.
