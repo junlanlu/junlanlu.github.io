@@ -1,31 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://junlanlu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://junlanlu.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-28T20:06:19+00:00</updated><id>https://junlanlu.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-</subtitle><entry><title type="html">keeping track of online resources</title><link href="https://junlanlu.github.io/posts/2023/resources/" rel="alternate" type="text/html" title="keeping track of online resources" /><published>2023-04-27T16:40:16+00:00</published><updated>2023-04-27T16:40:16+00:00</updated><id>https://junlanlu.github.io/posts/2023/resources</id><content type="html" xml:base="https://junlanlu.github.io/posts/2023/resources/"><![CDATA[<h1 id="my-resources">My resources</h1>
-
-<p>I find a lot of online resources that help me learn. Unfortunately, I don’t get to check them all out because I have a short attention span. So, I will keep a running list of them here.</p>
-
-<h2 id="machine-learning">Machine Learning</h2>
-
-<h2 id="computer-vision">Computer Vision</h2>
-
-<h2 id="mri">MRI</h2>
-
-<h2 id="statistics">Statistics</h2>
-
-<ol>
-  <li><strong><a href="https://www.bcfoltz.com/stats-101/">Brandon Foltz Statistics 101</a></strong></li>
-</ol>
-
-<h2 id="math">Math</h2>
-
-<ol>
-  <li><strong><a href="https://www.youtube.com/watch?v=Cx5Z-OslNWE&amp;list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k">Matrix Methods by Professor Strang</a></strong></li>
-</ol>
-
-<h2 id="people-and-blogs">People and blogs</h2>
-
-<ol>
-  <li><a href="https://e2eml.school/blog.html#121">Brandon Rohrer</a></li>
-</ol>]]></content><author><name></name></author><category term="resources" /><category term="resources" /><summary type="html"><![CDATA[a list of resources I've come across]]></summary></entry><entry><title type="html">creating my first full-stack web application</title><link href="https://junlanlu.github.io/posts/2023/collegeshunt/" rel="alternate" type="text/html" title="creating my first full-stack web application" /><published>2023-04-27T16:40:16+00:00</published><updated>2023-04-27T16:40:16+00:00</updated><id>https://junlanlu.github.io/posts/2023/collegeshunt</id><content type="html" xml:base="https://junlanlu.github.io/posts/2023/collegeshunt/"><![CDATA[<h1 id="my-experience-building-collegeshuntcom">My Experience building <a href="https://collegeshunt.com">collegeshunt.com</a></h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://junlanlu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://junlanlu.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-28T20:19:56+00:00</updated><id>https://junlanlu.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html">creating my first full-stack web application</title><link href="https://junlanlu.github.io/posts/2023/collegeshunt/" rel="alternate" type="text/html" title="creating my first full-stack web application" /><published>2023-04-27T16:40:16+00:00</published><updated>2023-04-27T16:40:16+00:00</updated><id>https://junlanlu.github.io/posts/2023/collegeshunt</id><content type="html" xml:base="https://junlanlu.github.io/posts/2023/collegeshunt/"><![CDATA[<h1 id="my-experience-building-collegeshuntcom">My Experience building <a href="https://collegeshunt.com">collegeshunt.com</a></h1>
 
 <p>I’ve always been passionate about technology and education. I recently decided to channel this passion into creating a web application called <a href="https://collegeshunt.com">collegeshunt.com</a>, which aims to help folks find the most prestigious colleges based on their preferences.</p>
 
@@ -51,4 +25,40 @@
 
 <h2 id="final-thoughts">Final Thoughts</h2>
 
-<p>Building this website has been an incredibly rewarding experience, as I’ve learned a lot about React, Firebase, and ChatGPT prompting. Finally, don’t take the rankings too seriously.</p>]]></content><author><name></name></author><category term="projects" /><category term="projects" /><summary type="html"><![CDATA[building a web-app to rank colleges]]></summary></entry></feed>
+<p>Building this website has been an incredibly rewarding experience, as I’ve learned a lot about React, Firebase, and ChatGPT prompting. Finally, don’t take the rankings too seriously.</p>]]></content><author><name></name></author><category term="projects" /><category term="projects" /><summary type="html"><![CDATA[building a web-app to rank colleges]]></summary></entry><entry><title type="html">My Childhood Love for Pokémon Turned Into an Investment</title><link href="https://junlanlu.github.io/posts/2023/pokemon-investing/" rel="alternate" type="text/html" title="My Childhood Love for Pokémon Turned Into an Investment" /><published>2023-04-20T16:40:16+00:00</published><updated>2023-04-20T16:40:16+00:00</updated><id>https://junlanlu.github.io/posts/2023/pokemon-investing</id><content type="html" xml:base="https://junlanlu.github.io/posts/2023/pokemon-investing/"><![CDATA[<h1 id="my-childhood-love-for-pokémon-turned-into-an-investment">My Childhood Love for Pokémon Turned Into an Investment</h1>
+
+<p>I grew up in the era of Pokémon, and as a kid, I was absolutely captivated by it. From playing the Pokémon games on my DS to opening up Pokémon cards at my local card shop, Pokémon was a huge part of my life. As I got older, I kept my love for Pokémon, and it eventually led me to start investing in Pokémon cards.</p>
+
+<h2 id="why-pokémon-is-a-decent-investment">Why Pokémon is a Decent Investment</h2>
+
+<p>The Pokémon franchise has been around for more than 25 years, and it’s still going strong. The brand has a massive, loyal fan base that spans multiple generations. The scarcity and demand for certain rare cards have resulted in their value appreciating over time. With a stable fan base, nostalgia, and limited supply, it makes sense that the prices of rare cards and items would increase. More specifically, sealed booster boxes, have a unique appeal to collectors and investors due to their rarity and the potential for valuable cards inside. As these boxes become harder to find over time (they’re either opened or destroyed), their scarcity increases, driving up their value. Moreover, the unopened boxes retain an air of mystery, with collectors speculating about the possibility of finding rare or highly sought-after cards within. Also, many people who grew up with Pokémon have fond memories of opening packs, and the desire to relive those moments can create additional demand for sealed product. I see it as investing in slot machines because you know people will want to gamble.</p>
+
+<h2 id="what-i-am-collecting">What I am collecting</h2>
+
+<p>I am collecting sealed WOTC and EX booster boxes. Booster boxes, unlike many other sealed products, don’t take up much space, but contain a lot of value inside. They’re a bit more liquid than individual PSA slabs, making them easier to sell later on. There’s also a healthy market of collectors, investors, and box-breakers.</p>]]></content><author><name></name></author><category term="fun" /><category term="fun" /><summary type="html"><![CDATA[investing in Pokémon cards]]></summary></entry><entry><title type="html">keeping track of online resources</title><link href="https://junlanlu.github.io/posts/2023/resources/" rel="alternate" type="text/html" title="keeping track of online resources" /><published>2023-04-20T16:40:16+00:00</published><updated>2023-04-20T16:40:16+00:00</updated><id>https://junlanlu.github.io/posts/2023/resources</id><content type="html" xml:base="https://junlanlu.github.io/posts/2023/resources/"><![CDATA[<h1 id="my-resources">My resources</h1>
+
+<p>I find a lot of online resources that help me learn. Unfortunately, I don’t get to check them all out because I have a short attention span. So, I will keep a running list of them here.</p>
+
+<h2 id="machine-learning">Machine Learning</h2>
+
+<h2 id="computer-vision">Computer Vision</h2>
+
+<h2 id="mri">MRI</h2>
+
+<h2 id="statistics">Statistics</h2>
+
+<ol>
+  <li><strong><a href="https://www.bcfoltz.com/stats-101/">Brandon Foltz Statistics 101</a></strong></li>
+</ol>
+
+<h2 id="math">Math</h2>
+
+<ol>
+  <li><strong><a href="https://www.youtube.com/watch?v=Cx5Z-OslNWE&amp;list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k">Matrix Methods by Professor Strang</a></strong></li>
+</ol>
+
+<h2 id="people-and-blogs">People and blogs</h2>
+
+<ol>
+  <li><a href="https://e2eml.school/blog.html#121">Brandon Rohrer</a></li>
+</ol>]]></content><author><name></name></author><category term="resources" /><category term="resources" /><summary type="html"><![CDATA[a list of resources I've come across]]></summary></entry></feed>
