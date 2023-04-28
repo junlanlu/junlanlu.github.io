@@ -13,23 +13,23 @@ I've always been passionate about technology and education. I recently decided t
 
 ## My thoughts on prestige
 
-In my perspective, the concept of prestige in higher education should be approached with a balanced mindset that acknowledges its importance while remaining grounded in reality. Prestige is undeniably intertwined with academic reputation, alumni networks, and the overall educational experience, yet it remains a multifaceted and often subjective notion. As an advocate for well-rounded decision-making, I believe that while prestige can provide valuable insights, it should not overshadow other crucial factors such as personal values, academic interests, and individual aspirations.
+In my perspective, the concept of prestige in higher education should be approached with a balanced mindset that acknowledges its importance while remaining grounded in reality. Prestige is undeniably intertwined with academic reputation, alumni networks, and the overall educational experience, yet it remains a multifaceted and often subjective notion. As an advocate for well-rounded decision-making, I believe prestige can provide valuable insights but should not overshadow other crucial factors such as personal values, academic interests, and individual aspirations.
 
 ## The Idea
 
-The idea was born from [prestigehunt.com](https://prestige.com), a website that ranks companies by their prestige. In fact, I ripped off most of their front-end. 
+The idea was born from [prestigehunt.com](https://prestige.com), a website that ranks companies by prestige. In fact, I ripped off most of their front-end. 
 
 This could also be applied to institutions of higher education, as traditional rankings often don't provide the complete picture, and there's a need for a more dynamic and community-driven platform. With this website, users can contribute to the rankings by participating in head-to-head (H2H) prestige matches, creating a more accurate and constantly evolving list of top colleges. Plus, I think it would be funny to see the results.
 
 ## The Tech Stack
 
-I chose to build a single-page application using React for the front-end and Firebase for the back-end. React's component-based architecture and Firebase's real-time database capabilities made it an excellent choice for creating a responsive and interactive user experience.
+I built a single-page application using React for the front-end and Firebase for the back-end. React's component-based architecture and Firebase's real-time database capabilities made it an excellent choice for creating a responsive and interactive user experience.
 
 ## Challenges and Solutions
 
-One of the main challenges I encountered during development was the fact that I did not know much at all about web development. I knew almost nothing about React, Node.js, and databases. I had to figure out how I could build this dman thing in the shortest amount of time possible. Conveniently, I knew generally from the front-end what was required of the back-end. The challenge was to figure out how to properly structure the back-end code to fulfill the requests of the front-end client.
+One of the main challenges I encountered during development was that I did not know much about web development. I knew almost nothing about React, Node.js, and databases. I had to figure out how to build this damn thing in the shortest time possible. Conveniently, I generally knew from the front-end what was required of the back-end. The challenge was to figure out how to properly structure the back-end code to fulfill the requests of the front-end client.
 
-To overcome these challenges, I used [ChatGPT](https://chat.openai.com/) and [Github Copilot](https://github.com/features/copilot). It saved me a TON of time. Since I knew how the backend should generally behave (and it wasn't super complicated), they managed to get about 90 percent of the code correct. Being a complete noob, I also wasn't aware that Firestore had a limit of 500 actions (read, write, or delete operations) per transaction. This limitation posed a challenge when scaling my application to handle hundreds of head-to-head matches. It required me to use batched writes instead.
+To overcome these challenges, I used [ChatGPT](https://chat.openai.com/) and [Github Copilot](https://github.com/features/copilot). It saved me a TON of time. Since I knew how the backend should generally behave (and it wasn't super complicated), they got about 90 percent of the code correct. Being a complete noob, I also wasn't aware that Firestore had a limit of 500 actions (read, write, or delete operations) per transaction. This limitation posed a challenge when scaling my application to handle hundreds of head-to-head matches. It required me to use batched writes instead.
 
 ## Final Thoughts
 
