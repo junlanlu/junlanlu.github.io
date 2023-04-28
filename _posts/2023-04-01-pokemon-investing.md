@@ -7,8 +7,6 @@ tags: fun
 categories: fun
 ---
 
-# My Childhood Love for Pokémon Turned Into an Investment
-
 I grew up in the era of Pokémon, and as a kid, I was absolutely captivated by it. From playing the Pokémon games on my DS to opening up Pokémon cards at my local card shop, Pokémon was a huge part of my life. As I got older, I kept my love for Pokémon, and it eventually led me to start investing in Pokémon cards.
 
 ## Why Pokémon is a Decent Investment
