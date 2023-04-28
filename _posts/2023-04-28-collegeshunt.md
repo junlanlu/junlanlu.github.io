@@ -17,7 +17,7 @@ In my perspective, the concept of prestige in higher education should be approac
 
 ## The Idea
 
-The idea was born from [prestigehunt.com](https://prestige.com), a website that ranks companies by prestige. In fact, I ripped off most of their front-end.
+The idea was born from [prestigehunt.com](https://prestigehunt.com), a website that ranks companies by prestige. In fact, I ripped off most of their front-end.
 
 This could also be applied to institutions of higher education, as traditional rankings often don't provide the complete picture, and there's a need for a more dynamic and community-driven platform. With this website, users can contribute to the rankings by participating in head-to-head (H2H) prestige matches, creating a more accurate and constantly evolving list of top colleges. Plus, I think it would be funny to see the results.
 
