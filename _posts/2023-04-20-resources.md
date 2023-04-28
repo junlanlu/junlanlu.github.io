@@ -1,7 +1,7 @@
 ---
 layout: post
 title: keeping track of online resources
-date: 2023-04-27 16:40:16
+date: 2023-04-20 16:40:16
 description: a list of resources I've come across
 tags: resources
 categories: resources
