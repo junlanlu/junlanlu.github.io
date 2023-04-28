@@ -1,7 +1,7 @@
 ---
 layout: post
 title: creating my first full-stack web application
-date: 2023-04-28 16:40:16
+date: 2023-04-27 16:40:16
 description: building a web-app to rank colleges
 tags: projects
 categories: projects
