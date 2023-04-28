@@ -1,2 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://junlanlu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://junlanlu.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-28T04:48:16+00:00</updated><id>https://junlanlu.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-</subtitle><entry><title type="html">Displaying External Posts on Your al-folio Blog</title><link href="https://junlanlu.github.io/posts/2022/displaying-external-posts-on-your-al-folio-blog/" rel="alternate" type="text/html" title="Displaying External Posts on Your al-folio Blog" /><published>2022-04-23T23:20:09+00:00</published><updated>2022-04-23T23:20:09+00:00</updated><id>https://junlanlu.github.io/posts/2022/displaying-external-posts-on-your-al-folio-blog</id><content type="html" xml:base="https://junlanlu.github.io/posts/2022/displaying-external-posts-on-your-al-folio-blog/"><![CDATA[]]></content><author><name></name></author></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://junlanlu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://junlanlu.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-28T05:03:53+00:00</updated><id>https://junlanlu.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html">creating my first full-stack web application</title><link href="https://junlanlu.github.io/posts/2023/collegeshunt/" rel="alternate" type="text/html" title="creating my first full-stack web application" /><published>2023-04-27T16:40:16+00:00</published><updated>2023-04-27T16:40:16+00:00</updated><id>https://junlanlu.github.io/posts/2023/collegeshunt</id><content type="html" xml:base="https://junlanlu.github.io/posts/2023/collegeshunt/"><![CDATA[<h1 id="my-experience-building-collegeshuntcom">My Experience building <a href="https://collegeshunt.com">collegeshunt.com</a></h1>
+
+<p>I’ve always been passionate about technology and education. I recently decided to channel this passion into creating a web application called <a href="https://collegeshunt.com">collegeshunt.com</a>, which aims to help folks find the most prestigious colleges based on their preferences.</p>
+
+<h2 id="my-thoughts-on-prestige">My thoughts on prestige</h2>
+
+<p>In my perspective, the concept of prestige in higher education should be approached with a balanced mindset that acknowledges its importance while remaining grounded in reality. Prestige is undeniably intertwined with academic reputation, alumni networks, and the overall educational experience, yet it remains a multifaceted and often subjective notion. As an advocate for well-rounded decision-making, I believe prestige can provide valuable insights but should not overshadow other crucial factors such as personal values, academic interests, and individual aspirations.</p>
+
+<h2 id="the-idea">The Idea</h2>
+
+<p>The idea was born from <a href="https://prestige.com">prestigehunt.com</a>, a website that ranks companies by prestige. In fact, I ripped off most of their front-end.</p>
+
+<p>This could also be applied to institutions of higher education, as traditional rankings often don’t provide the complete picture, and there’s a need for a more dynamic and community-driven platform. With this website, users can contribute to the rankings by participating in head-to-head (H2H) prestige matches, creating a more accurate and constantly evolving list of top colleges. Plus, I think it would be funny to see the results.</p>
+
+<h2 id="the-tech-stack">The Tech Stack</h2>
+
+<p>I built a single-page application using React for the front-end and Firebase for the back-end. React’s component-based architecture and Firebase’s real-time database capabilities made it an excellent choice for creating a responsive and interactive user experience.</p>
+
+<h2 id="challenges-and-solutions">Challenges and Solutions</h2>
+
+<p>One of the main challenges I encountered during development was that I did not know much about web development. I knew almost nothing about React, Node.js, and databases. I had to figure out how to build this damn thing in the shortest time possible. Conveniently, I generally knew from the front-end what was required of the back-end. The challenge was to figure out how to properly structure the back-end code to fulfill the requests of the front-end client.</p>
+
+<p>To overcome these challenges, I used <a href="https://chat.openai.com/">ChatGPT</a> and <a href="https://github.com/features/copilot">Github Copilot</a>. It saved me a TON of time. Since I knew how the backend should generally behave (and it wasn’t super complicated), they got about 90 percent of the code correct. Being a complete noob, I also wasn’t aware that Firestore had a limit of 500 actions (read, write, or delete operations) per transaction. This limitation posed a challenge when scaling my application to handle hundreds of head-to-head matches. It required me to use batched writes instead.</p>
+
+<h2 id="final-thoughts">Final Thoughts</h2>
+
+<p>Building this website has been an incredibly rewarding experience, as I’ve learned a lot about React, Firebase, and ChatGPT prompting. Finally, don’t take the rankings too seriously.</p>]]></content><author><name></name></author><category term="projects" /><category term="projects" /><summary type="html"><![CDATA[building a web-app to rank colleges]]></summary></entry></feed>
