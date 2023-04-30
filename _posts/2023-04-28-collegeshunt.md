@@ -7,8 +7,6 @@ tags: projects
 categories: projects
 ---
 
-# My Experience building [collegeshunt.com](https://collegeshunt.com)
-
 I've always been passionate about technology and education. I recently decided to channel this passion into creating a web application called [collegeshunt.com](https://collegeshunt.com), which aims to help folks find the most prestigious colleges based on their preferences.
 
 ## My thoughts on prestige

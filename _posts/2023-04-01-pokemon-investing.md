@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Childhood Love for Pokémon Turned Into an Investment
+title: investing in pokémon sealed product
 date: 2023-04-20 16:40:16
 description: investing in Pokémon cards
 tags: fun
