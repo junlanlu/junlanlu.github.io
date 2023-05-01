@@ -64,8 +64,7 @@
 
           <!-- Other pages -->
           {%- assign sorted_pages = site.pages | sort: "nav_order" -%} {%- for p
-          in sorted_pages -%} {%- if p.nav and p.autogen == nil and p.title !=
-          'cv' and p.title != 'projects' and p.title != 'teaching' -%} {%- if
+          in sorted_pages -%} {%- if p.nav and p.autogen == nil -%} {%- if
           p.dropdown %}
           <li
             class="nav-item dropdown {% if page.title == p.title %}active{% endif %}"
@@ -105,19 +104,8 @@
               {%- endif -%}
             </a>
           </li>
-          {%- endif -%} {%- endif -%} {% endfor -%}
-          <!-- CV -->
-          <li class="nav-item {% if page.title == 'cv' %}active{% endif %}">
-            <a
-              class="nav-link"
-              href="{{ '/assets/pdf/cv.pdf' | relative_url }}"
-            >
-              cv {% if page.title == "cv" %}
-              <span class="sr-only">(current)</span>
-              {% endif %}
-            </a>
-          </li>
-          {%- if site.enable_darkmode %}
+          {%- endif -%} {%- endif -%} {% endfor -%} {%- if site.enable_darkmode
+          %}
 
           <!-- Toogle theme mode -->
           <li class="toggle-container">
