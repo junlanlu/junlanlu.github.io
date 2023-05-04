@@ -12,10 +12,10 @@ profile:
     <p>Bryan Research Building</p>
     <p>Duke University</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: true # includes a list of news items
+latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I am a fourth year Ph.D. student in the medical physics graduate program at Duke University, advised by [Prof. Bastiaan Driehuys](https://sites.duke.edu/driehuyslab/). Here, I develop imaging processing methods for hyperpolarized Xenon MRI. My research interests are broadly in medical image processing, reconstruction, and analysis. I am also interested in deep learning and computer vision, and have experience with image generation, segmentation, and super-resolution. My research is currently supported by the [NSF GRFP](https://www.nsfgrfp.org/).
