@@ -70,6 +70,18 @@
       items: 
         - NSF Graduate Research Fellowship
 
+- title: Test Scores
+  type: time_table
+  contents:
+    - year: SAT
+      items: 
+        - 2360/2400 (800 M, 760 CR, 800 W)
+    - year: GRE
+      items: 
+        - (170/170 V, 161/170 V)
+    - year: Phys. GRE
+      items: 
+        - 920/990
 # - title: Academic Interests
 #   type: nested_list
 #   contents:
