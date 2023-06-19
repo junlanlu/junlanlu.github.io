@@ -14,7 +14,8 @@ I find a lot of online resources that help me learn. Unfortunately, I don't get 
 ## Machine Learning
 
 ## Computer Vision
-
+1. **[Stanford EE367 Computational Imaging](https://stanford.edu/class/ee367/)
+2. [First Principles of CV (youtube)](https://www.youtube.com/@firstprinciplesofcomputerv3258)
 ## MRI
 
 ## Statistics
