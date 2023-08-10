@@ -27,6 +27,7 @@ I find a lot of online resources that help me learn. Unfortunately, I don't get 
 
 1. **[Matrix Methods by Professor Strang](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)**
 2. [Convex Optimization](https://www.youtube.com/watch?v=Di9f47LAzHQ&list=PLRPU00LaonXQ27RBcq6jFJnyIbGw5azOI)
+3. [Score Models] (A Pedagogical Introduction to Score Models)
 ## Blogs
 
 1. [Brandon Rohrer](https://e2eml.school/blog.html#121)

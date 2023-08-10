@@ -11,3 +11,6 @@ vendor
 
 _posts/archive/*
 
+assets/pdf/*
+!assets/pdf/cv.pdf
+!assets/pdf/example.pdf
