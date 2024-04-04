@@ -20,7 +20,7 @@
       year: 2016-2019
       description:
         - 3.86/4.3 GPA
-        - Honors Thesis titled Cancerous Tissue Differentiation Using Metasurface-enhanced 
+        - Honors Thesis titled Cancerous Tissue Differentiation Using Metasurface-enhanced
           Infrared Spectroscopy
 
 - title: Experience
@@ -32,12 +32,12 @@
       description:
         - Conditional diffusion models for image enhancement.
         - Advised by Sakar Khattar, Cristina Vasconcelos, and Cengiz Oztireli
-    - title: Research Intern
-      institution: Google, Mountain View, California, US
-      year: 2022
-      description:
-        - Deep learning reference-based image super-resolution.
-        - Advised by Yuchuan Su and Li Wei
+    # - title: Research Intern
+    #   institution: Google, Mountain View, California, US
+    #   year: 2022
+    #   description:
+    #     - Deep learning reference-based image super-resolution.
+    #     - Advised by Yuchuan Su and Li Wei
     - title: Computer Vision Research Intern
       institution: Kitware, Inc., Clifton Park, New York, US
       year: 2021
@@ -79,26 +79,26 @@
   type: time_table
   contents:
     - year: 2019
-      items: 
+      items:
         - NSF Graduate Research Fellowship
 
 - title: Test Scores
   type: time_table
   contents:
     - year: SAT
-      items: 
+      items:
         - 2360/2400 (800 M, 760 CR, 800 W)
     - year: GRE
-      items: 
+      items:
         - (170/170 M, 161/170 V)
     - year: Phys. GRE
-      items: 
+      items:
         - 920/990
 # - title: Academic Interests
 #   type: nested_list
 #   contents:
 #     - title: Topic 1.
-#       items: 
+#       items:
 #         - Description 1.
 #         - Description 2.
 #     - title: Topic 2.
