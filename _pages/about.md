@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://medicalphysics.duke.edu/'>Medical Physics</a>. Duke University.
+subtitle: Research scientist at Meta
 
 profile:
   align: right
