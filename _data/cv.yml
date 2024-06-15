@@ -37,12 +37,12 @@
       description:
         - Conditional diffusion models for image enhancement.
         - Advised by Sakar Khattar, Cristina Vasconcelos, and Cengiz Oztireli
-    - title: Research Intern
-      institution: Google, Mountain View, California, US
-      year: 2022
-      description:
-        - Deep learning reference-based image super-resolution.
-        - Advised by Yuchuan Su and Li Wei
+    # - title: Research Intern
+    #   institution: Google, Mountain View, California, US
+    #   year: 2022
+    #   description:
+    #     - Deep learning reference-based image super-resolution.
+    #     - Advised by Yuchuan Su and Li Wei
     - title: Computer Vision Research Intern
       institution: Kitware, Inc., Clifton Park, New York, US
       year: 2021
